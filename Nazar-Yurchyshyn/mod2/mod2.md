@@ -40,7 +40,7 @@
 
 UML діаграма класів, що описує структуру шаблону проєктування Будівник.
 
-3. https://github.com/Yurchyshyn0/OOP_Yurchyshyn/blob/30edb9ce7204a2c4530133e25421f89fc383cf1d/mod2.py
+3. [Code example](./mod2.py)
 
   Результат програми:
    
